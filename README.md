@@ -1,2 +1,2 @@
-1. pnpm/npm i
-2. pnpm/npm run dev
+1. npm i
+2. npm run dev
